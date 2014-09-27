@@ -52,3 +52,5 @@ For those who are unfamiliar with the command line, here's how to run the script
    If an SVG file appeared in your working directory, then everything went as it should. If something wierd (or nothing) happens, ask your nerd friend for help.
 
 5. Now just substitute the values for your own measurements and you've got the desing file.
+
+If yo run into any problems or if there's a feature you want to suggest just send me a mail to juha.kivekas@wippies.fi
